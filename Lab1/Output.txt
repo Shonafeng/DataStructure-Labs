@@ -1,0 +1,20 @@
+AAABBB is: Language L1   Language L2   Language L4   
+AB is: Language L1   Language L2   Language L4   
+ is: input contains 0 As and 0 Bs, Language L2, Language L3, Language L4, Language L6 
+ABABABA is: 
+ABAB is: Language L1   Language L4   
+BBAA is: Language L1   
+BBBAA is: 
+AAB is: Language L4   
+AABBCCD is: 
+ABCBA is: 
+ABBBA is: 
+ABBA is: Language L1   Language L5   Language L6   
+ABAABBAAABBB is: Language L1   
+AABACABAA is: 
+AABBBAABBB is: Language L4   
+AABBBBAA is: Language L1   Language L5   Language L6   
+ABCDEFGGFEDCBA is: Language L5   
+aaABBB is: Language L1   Language L2   Language L4   
+aa bb is: Language L1   Language L2   Language L4   
+eiutggtuie is: Language L5   
