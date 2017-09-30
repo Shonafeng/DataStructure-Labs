@@ -1,2 +1,2 @@
-# JHU-DataStructure-Labs
-Labs for JHU Data Structure course
+# DataStructure-Labs
+Labs for Data Structure course
